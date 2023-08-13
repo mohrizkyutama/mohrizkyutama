@@ -1,1 +1,2 @@
-# mohrizkyutama
+# Hello Welcome to My Profile Page!
+Introducing my name is Moh. Rizky Putra Aji Utama. I am currently a student at the Open University majoring in information systems. Currently focusing on web and mobile development. On several occasions I have participated in several internships including Mobile development such as Android and Flutter. If you are interested to know more, you can visit [LinkIdn](https://www.linkedin.com/in/mohrizkyputraajiutama) my account.
